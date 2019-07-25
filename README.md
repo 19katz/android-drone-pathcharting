@@ -10,7 +10,7 @@ app > src > main > java > com > example > katherinezhang > dronepathcharting
 '''
 ## Running
 
-Run MapsActivity.java and select 
+Run MapsActivity.java and select the emulator or device on which the app should be run. 
 
 ## Using the App
 
